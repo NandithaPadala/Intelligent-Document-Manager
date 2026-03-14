@@ -1,0 +1,22 @@
+# Environments
+.env
+
+# Virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.idea/
+.vscode/
+
+# Project dependencies
+frontend/node_modules/
+
+# Local storage and vector store
+storage/
+vector_store/
